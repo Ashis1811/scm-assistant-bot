@@ -6,10 +6,7 @@ A RAG-powered supply chain chatbot built in Flowise that answers questions about
 
 ---
 
-## 🤖 Live Chatbot URL
-
-**[https://cloud.flowiseai.com/chatbot/](https://cloud.flowiseai.com/chatbot/f4d4955f-5f63-4903-a6dc-19b8f4673f12)**
-
+## 🤖 Live Demo: **[https://cloud.flowiseai.com/chatbot/](https://cloud.flowiseai.com/chatbot/f4d4955f-5f63-4903-a6dc-19b8f4673f12)**
 ---
 
 ## 🛠 Tech Stack
@@ -154,5 +151,5 @@ scm-assistant-bot/
 ---
 
 ## 📬 Submission
-- **Live Chatbot:** `https://cloud.flowiseai.com/chatbot/f4d4955f-5f63-4903-a6dc-19b8f4673f12`
+- **Live Chatbot URL:** `https://cloud.flowiseai.com/chatbot/f4d4955f-5f63-4903-a6dc-19b8f4673f12`
 - **Contact:** Trinamix Talent Acquisition · Ref: TX-JrAI-003
