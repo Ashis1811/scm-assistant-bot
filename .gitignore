@@ -1,0 +1,33 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# API Keys & Secrets
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Flowise credentials (if exported separately)
+credentials/
+apikeys/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
