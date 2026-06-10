@@ -8,7 +8,7 @@ A RAG-powered supply chain chatbot built in Flowise that answers questions about
 
 ## 🤖 Live Chatbot URL
 
-**[https://cloud.flowiseai.com/chatbot/](https://cloud.flowiseai.com/chatbot/)**
+**[https://cloud.flowiseai.com/chatbot/](https://cloud.flowiseai.com/chatbot/f4d4955f-5f63-4903-a6dc-19b8f4673f12)**
 
 ---
 
